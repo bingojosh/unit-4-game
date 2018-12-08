@@ -27,11 +27,11 @@
     top: 30px;
 }
 h1{
-    font-size: 3rem;
+    font-size: 2rem;
     text-align: center;
 }
 h2{
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 .charName{
     margin-top: 9px;
@@ -42,10 +42,10 @@ h2{
     bottom: 10px;
     left: 100px;
 }
-/* @font-face {
+@font-face {
     font-family: 'Jedi Special';
-    src: URL('assets/STJEDISE.TTF') format('truetype');
+    src: URL('STJEDISE.TTF') format('truetype');
 }
 body{
     font-family: 'Jedi Special';
-} */
+}
